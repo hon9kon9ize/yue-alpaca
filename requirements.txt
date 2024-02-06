@@ -1,0 +1,6 @@
+requests
+tqdm
+pandas
+tenacity
+pysocks
+pyarrow
