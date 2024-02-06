@@ -280,7 +280,7 @@ if __name__ == "__main__":
         seed_instruction_data += regen_instruction_data
 
     # Generate more instructions
-    NUM_OF_GENERATED_INSTRUCTIONS = 1
+    NUM_OF_GENERATED_INSTRUCTIONS = 5000
     NUM_OF_SEED_INSTRUCTIONS = 3
     generated_instructions = []
 
